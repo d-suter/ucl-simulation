@@ -1,0 +1,116 @@
+{
+    "GroupA": {
+      "1st": {
+        "name": "Bayern Munich",
+        "country": "Germany",
+        "group": "A",
+        "world_ranking": 3
+      },
+      "2nd": {
+        "name": "FC Kobenhavn",
+        "country": "Denmark",
+        "group": "A",
+        "world_ranking": 80
+      }
+    },
+    "GroupB": {
+      "1st": {
+        "name": "Arsenal",
+        "country": "England",
+        "group": "B",
+        "world_ranking": 5
+      },
+      "2nd": {
+        "name": "PSV Eindhoven",
+        "country": "Netherlands",
+        "group": "B",
+        "world_ranking": 18
+      }
+    },
+    "GroupC": {
+      "1st": {
+        "name": "Real Madrid",
+        "country": "Spain",
+        "group": "C",
+        "world_ranking": 2
+      },
+      "2nd": {
+        "name": "SSC Napoli",
+        "country": "Italy",
+        "group": "C",
+        "world_ranking": 17
+      }
+    },
+    "GroupD": {
+      "1st": {
+        "name": "Real Sociedad",
+        "country": "Spain",
+        "group": "D",
+        "world_ranking": 14
+      },
+      "2nd": {
+        "name": "Inter Milano",
+        "country": "Italy",
+        "group": "D",
+        "world_ranking": 6
+      }
+    },
+    "GroupE": {
+      "1st": {
+        "name": "Athletico Madrid",
+        "country": "Spain",
+        "group": "E",
+        "world_ranking": 7
+      },
+      "2nd": {
+        "name": "Lazio",
+        "country": "Italy",
+        "group": "E",
+        "world_ranking": 38
+        
+      }
+    },
+    "GroupF": {
+      "1st": {
+        "name": "Borussia Dortmund",
+        "country": "Germany",
+        "group": "F",
+        "world_ranking": 12
+      },
+      "2nd": {
+        "name": "PSG",
+        "country": "France",
+        "group": "F",
+        "world_ranking": 8
+      }
+    },
+    "GroupG": {
+      "1st": {
+        "name": "Manchester City",
+        "country": "England",
+        "group": "G",
+        "world_ranking": 1
+      },
+      "2nd": {
+        "name": "RB Leipzig",
+        "country": "Germany",
+        "group": "G",
+        "world_ranking": 9
+      }
+    },
+    "GroupH": {
+      "1st": {
+        "name": "Barcelona",
+        "country": "Spain",
+        "group": "H",
+        "world_ranking": 13
+      },
+      "2nd": {
+        "name": "FC Porto",
+        "country": "Portugal",
+        "group": "H",
+        "world_ranking": 20
+      }
+    }
+  }
+  

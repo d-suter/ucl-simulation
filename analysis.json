@@ -1,0 +1,96 @@
+{
+    "Manchester City": {
+        "quarter_finals": 88.63579,
+        "semi_finals": 32.49418,
+        "finals": 32.49418,
+        "win": 22.14201
+    },
+    "Real Madrid": {
+        "quarter_finals": 84.18423,
+        "semi_finals": 28.85187,
+        "finals": 28.85187,
+        "win": 18.41769
+    },
+    "Bayern Munich": {
+        "quarter_finals": 83.33529,
+        "semi_finals": 28.18551,
+        "finals": 28.18551,
+        "win": 16.87564
+    },
+    "Arsenal": {
+        "quarter_finals": 78.27564,
+        "semi_finals": 22.75891,
+        "finals": 22.75891,
+        "win": 11.749080000000001
+    },
+    "Athletico Madrid": {
+        "quarter_finals": 71.89188,
+        "semi_finals": 18.25854,
+        "finals": 18.25854,
+        "win": 7.986319999999999
+    },
+    "Inter Milano": {
+        "quarter_finals": 50.3669,
+        "semi_finals": 14.11993,
+        "finals": 14.11993,
+        "win": 6.79437
+    },
+    "PSG": {
+        "quarter_finals": 43.84129,
+        "semi_finals": 10.651869999999999,
+        "finals": 10.651869999999999,
+        "win": 4.36139
+    },
+    "RB Leipzig": {
+        "quarter_finals": 47.26672,
+        "semi_finals": 9.29379,
+        "finals": 9.29379,
+        "win": 3.44318
+    },
+    "Borussia Dortmund": {
+        "quarter_finals": 73.92374000000001,
+        "semi_finals": 12.612110000000001,
+        "finals": 12.612110000000001,
+        "win": 3.41428
+    },
+    "Barcelona": {
+        "quarter_finals": 58.865959999999994,
+        "semi_finals": 9.00706,
+        "finals": 9.00706,
+        "win": 2.20538
+    },
+    "Real Sociedad": {
+        "quarter_finals": 62.77405,
+        "semi_finals": 8.53052,
+        "finals": 8.53052,
+        "win": 1.8589000000000002
+    },
+    "SSC Napoli": {
+        "quarter_finals": 22.41084,
+        "semi_finals": 2.3607199999999997,
+        "finals": 2.3607199999999997,
+        "win": 0.37374999999999997
+    },
+    "PSV Eindhoven": {
+        "quarter_finals": 19.55642,
+        "semi_finals": 1.83725,
+        "finals": 1.83725,
+        "win": 0.26029
+    },
+    "FC Porto": {
+        "quarter_finals": 13.37983,
+        "semi_finals": 1.02922,
+        "finals": 1.02922,
+        "win": 0.11764
+    },
+    "Lazio": {
+        "quarter_finals": 1.28881,
+        "semi_finals": 0.00852,
+        "finals": 0.00852,
+        "win": 7.999999999999999e-05
+    },
+    "FC Kobenhavn": {
+        "quarter_finals": 0.00261,
+        "win": 0
+    }
+}
