@@ -32,3 +32,5 @@ The results are displayed in `analysis.json`, showing the probabilities for each
 - FC Kobenhavn to win: `0%` 
 
 The results provide insights into the likelihood of each team's success in the Champions League based on their current world rankings and the simulation model.
+
+Global Rankings: https://theanalyst.com/eu/2023/09/who-are-the-best-football-team-in-the-world-opta-power-rankings/
